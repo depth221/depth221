@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<preferences xmlns='http://josm.openstreetmap.de/preferences-1.0' version='18427'>
-  <tag key='cache.capabilities1637351842' value='1653555365'/>
-  <tag key='cache.motd.html' value='1653555363'/>
+<preferences xmlns='http://josm.openstreetmap.de/preferences-1.0' version='18463'>
+  <tag key='cache.capabilities1637351842' value='1654299942'/>
+  <tag key='cache.motd.html' value='1654299945'/>
   <tag key='cache.motd.html.java' value='18.0.1.1'/>
   <tag key='cache.motd.html.lang' value='Ko:'/>
-  <tag key='cache.motd.html.version' value='18427'/>
+  <tag key='cache.motd.html.version' value='18463'/>
+  <tag key='changeset-query.advanced.open-restrictions.query-type' value='open'/>
+  <tag key='changeset-query.advanced.time-restrictions.query-type' value='closed-after'/>
+  <tag key='changeset-query.advanced.user-restrictions' value='true'/>
+  <tag key='changeset-query.advanced.user-restrictions.query-type' value='uid'/>
+  <tag key='changeset-query.advanced.user-restrictions.uid' value='16184834'/>
+  <tag key='changeset-query.advanced.user-restrictions.username' value='user_16184834'/>
+  <tag key='changesetdialog.lastHeight' value='0'/>
+  <tag key='commandstack.lastHeight' value='0'/>
+  <tag key='conflict.lastHeight' value='0'/>
   <tag key='draw.rawgps.lines' value='-1'/>
+  <tag key='expert' value='true'/>
+  <tag key='filter.lastHeight' value='0'/>
   <maps key='imagery.entries'>
     <map>
       <tag key='max-zoom' value='22'/>
@@ -122,27 +133,40 @@
     <entry value='Maxar-Premium'/>
     <entry value='standard'/>
   </list>
-  <tag key='josm.version' value='18427'/>
+  <tag key='josm.version' value='18463'/>
+  <tag key='layerlist.lastHeight' value='146'/>
   <tag key='mappaint.renderer-class-name' value='org.openstreetmap.josm.data.osm.visitor.paint.StyledMapRenderer'/>
   <list key='mappaint.style.known-defaults'>
     <entry value='resource://styles/standard/elemstyles.mapcss'/>
     <entry value='resource://styles/standard/potlatch2.mapcss'/>
   </list>
+  <tag key='mapstyle.lastHeight' value='0'/>
+  <tag key='minimap.lastHeight' value='0'/>
   <list key='mirror.https://josm.openstreetmap.de/maps'>
-    <entry value='1653555372911'/>
-    <entry value='/tmp/guest-scleqd/.cache/JOSM/mirror_https___josm.openstreetmap.de_maps'/>
+    <entry value='1654299948421'/>
+    <entry value='/tmp/guest-ge07gs/.cache/JOSM/mirror_https___josm.openstreetmap.de_maps'/>
   </list>
   <list key='mirror.https://josm.openstreetmap.de/remote/geofabrik-index-v1-nogeom.json'>
-    <entry value='1653555364541'/>
-    <entry value='/tmp/guest-scleqd/.cache/JOSM/mirror_https___josm.openstreetmap.de_remote_geofabrik-index-v1-nogeom.json'/>
+    <entry value='1654299946138'/>
+    <entry value='/tmp/guest-ge07gs/.cache/JOSM/mirror_https___josm.openstreetmap.de_remote_geofabrik-index-v1-nogeom.json'/>
   </list>
   <tag key='oauth.access-token.key' value='1yViTeZeAvbC4aohKdcuFk3Ti9yqOp2CpVioIZoA'/>
+  <tag key='oauth.access-token.secret' value='HRToB9F3oPSwbgUFRx2ehNYz6zflRMXLE2J2jjdj'/>
+  <tag key='org.openstreetmap.josm.gui.dialogs.changeset.ChangesetCacheManager.geometry' value='x=132,y=43,width=1000,height=600'/>
+  <tag key='org.openstreetmap.josm.gui.dialogs.changeset.query.ChangesetQueryDialog.geometry' value='x=332,y=143,width=600,height=400'/>
+  <tag key='org.openstreetmap.josm.gui.download.DownloadDialog.geometry' value='x=667,y=318,width=1000,height=600'/>
   <tag key='org.openstreetmap.josm.gui.oauth.OAuthAuthorizationWizard.geometry' value='x=884,y=429,width=526,height=406'/>
   <tag key='org.openstreetmap.josm.gui.preferences.PreferenceDialog.geometry' value='x=802,y=232,width=800,height=800'/>
-  <tag key='pluginmanager.version' value='18427'/>
+  <tag key='pluginmanager.version' value='18463'/>
   <list key='plugins'>
     <entry value='buildings_tools'/>
+    <entry value='reverter'/>
   </list>
   <tag key='preferences.reset.draw.rawgps.lines' value='true'/>
+  <tag key='propertiesdialog.lastHeight' value='196'/>
+  <tag key='relationlist.lastHeight' value='198'/>
   <tag key='remotecontrol.enabled' value='true'/>
+  <tag key='selectionlist.lastHeight' value='196'/>
+  <tag key='userlist.lastHeight' value='0'/>
+  <tag key='validator.lastHeight' value='0'/>
 </preferences>
