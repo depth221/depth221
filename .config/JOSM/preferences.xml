@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preferences xmlns='http://josm.openstreetmap.de/preferences-1.0' version='18463'>
-  <tag key='cache.capabilities1637351842' value='1654299942'/>
-  <tag key='cache.motd.html' value='1654299945'/>
+  <tag key='cache.capabilities1637351842' value='1654850572'/>
+  <tag key='cache.motd.html' value='1654850575'/>
   <tag key='cache.motd.html.java' value='18.0.1.1'/>
   <tag key='cache.motd.html.lang' value='Ko:'/>
   <tag key='cache.motd.html.version' value='18463'/>
@@ -141,33 +141,85 @@
     <entry value='resource://styles/standard/potlatch2.mapcss'/>
   </list>
   <tag key='mapstyle.lastHeight' value='0'/>
+  <tag key='message.way.split.segment-selection-dialog' value='false'/>
+  <tag key='message.way.split.segment-selection-dialog.value' value='1'/>
   <tag key='minimap.lastHeight' value='0'/>
   <list key='mirror.https://josm.openstreetmap.de/maps'>
-    <entry value='1654299948421'/>
-    <entry value='/tmp/guest-ge07gs/.cache/JOSM/mirror_https___josm.openstreetmap.de_maps'/>
+    <entry value='1654850578372'/>
+    <entry value='/tmp/guest-j41eoj/.cache/JOSM/mirror_https___josm.openstreetmap.de_maps'/>
   </list>
   <list key='mirror.https://josm.openstreetmap.de/remote/geofabrik-index-v1-nogeom.json'>
-    <entry value='1654299946138'/>
-    <entry value='/tmp/guest-ge07gs/.cache/JOSM/mirror_https___josm.openstreetmap.de_remote_geofabrik-index-v1-nogeom.json'/>
+    <entry value='1654850576083'/>
+    <entry value='/tmp/guest-j41eoj/.cache/JOSM/mirror_https___josm.openstreetmap.de_remote_geofabrik-index-v1-nogeom.json'/>
   </list>
   <tag key='notes/note_open.lastHeight' value='0'/>
   <tag key='oauth.access-token.key' value='1yViTeZeAvbC4aohKdcuFk3Ti9yqOp2CpVioIZoA'/>
   <tag key='oauth.access-token.secret' value='HRToB9F3oPSwbgUFRx2ehNYz6zflRMXLE2J2jjdj'/>
   <tag key='org.openstreetmap.josm.gui.dialogs.changeset.ChangesetCacheManager.geometry' value='x=132,y=43,width=1000,height=600'/>
   <tag key='org.openstreetmap.josm.gui.dialogs.changeset.query.ChangesetQueryDialog.geometry' value='x=332,y=143,width=600,height=400'/>
+  <tag key='org.openstreetmap.josm.gui.dialogs.properties.TagEditHelper$AddTagsDialog.geometry' value='x=1012,y=477,width=302,height=406'/>
+  <tag key='org.openstreetmap.josm.gui.dialogs.properties.TagEditHelper$EditTagDialog.geometry' value='x=1016,y=539,width=295,height=178'/>
   <tag key='org.openstreetmap.josm.gui.download.DownloadDialog.geometry' value='x=667,y=318,width=1000,height=600'/>
+  <tag key='org.openstreetmap.josm.gui.history.HistoryBrowserDialogManager.geometry' value='x=535,y=290,width=850,height=500'/>
+  <tag key='org.openstreetmap.josm.gui.io.UploadDialog.geometry' value='x=763,y=328,width=800,height=600'/>
   <tag key='org.openstreetmap.josm.gui.oauth.OAuthAuthorizationWizard.geometry' value='x=884,y=429,width=526,height=406'/>
   <tag key='org.openstreetmap.josm.gui.preferences.PreferenceDialog.geometry' value='x=802,y=232,width=800,height=800'/>
+  <tag key='osm-download.bounds' value='35.1458804;126.7684025;35.1491087;126.7745072'/>
+  <tag key='osm-server.upload-strategy' value='singlerequest'/>
+  <tag key='pluginmanager.lastupdate' value='1654850570757'/>
   <tag key='pluginmanager.version' value='18463'/>
   <list key='plugins'>
     <entry value='buildings_tools'/>
     <entry value='reverter'/>
   </list>
   <tag key='preferences.reset.draw.rawgps.lines' value='true'/>
+  <list key='properties.recent-tags'>
+    <entry value='building'/>
+    <entry value='residential'/>
+    <entry value='building'/>
+    <entry value='commercial'/>
+    <entry value='traffic_calming'/>
+    <entry value='hump'/>
+    <entry value='landuse'/>
+    <entry value='residential'/>
+    <entry value='residential'/>
+    <entry value='urban'/>
+    <entry value='landuse'/>
+    <entry value='retail'/>
+    <entry value='leisure'/>
+    <entry value='playground'/>
+    <entry value='building'/>
+    <entry value='house'/>
+    <entry value='building'/>
+    <entry value='church'/>
+    <entry value='lanes'/>
+    <entry value='3'/>
+    <entry value='building'/>
+    <entry value='apartments'/>
+    <entry value='building:levels'/>
+    <entry value='3'/>
+    <entry value='highway'/>
+    <entry value='pedestrian'/>
+    <entry value='noname'/>
+    <entry value='yes'/>
+  </list>
   <tag key='propertiesdialog.lastHeight' value='196'/>
   <tag key='relationlist.lastHeight' value='198'/>
   <tag key='remotecontrol.enabled' value='true'/>
   <tag key='selectionlist.lastHeight' value='196'/>
+  <tag key='upload.changeset.close' value='false'/>
+  <list key='upload.comment.history'>
+    <entry value='광주 광산구 소촌동 건물 추가 등'/>
+  </list>
+  <tag key='upload.comment.last-used' value='1654852768'/>
+  <list key='upload.source.history'>
+    <entry value='OpenStreetMap Carto (Standard); Maxar Premium Imagery'/>
+    <entry value='knowledge'/>
+    <entry value='survey'/>
+    <entry value='Bing'/>
+  </list>
+  <tag key='upload.source.obtainautomatically' value='true'/>
   <tag key='userlist.lastHeight' value='0'/>
   <tag key='validator.lastHeight' value='0'/>
+  <tag key='validator.visible' value='true'/>
 </preferences>
